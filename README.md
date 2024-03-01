@@ -1,2 +1,2 @@
-# Machine-Learning-Py
-machine learning diabeties predection App
+# Machine-Learning-Python
+machine learning diabeties predection App en python
